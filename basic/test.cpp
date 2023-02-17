@@ -3,8 +3,9 @@
 
 using namespace std;
 
-main()
+int main()
 {
 
   cout << " Hello world! \n How are You" << endl;
+  return 1;
 }
